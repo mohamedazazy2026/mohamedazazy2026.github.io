@@ -1,12 +1,19 @@
-MOHAMED AZAZY PORTFOLIO — DYNAMIC FINAL
+CLOUDFLARE FINAL DYNAMIC BUILD
 
-Upload the CONTENTS of this ZIP to the ROOT of the GitHub repository mohamedazazy2026.github.io or to Cloudflare static assets.
+1. Open the Cloudflare Worker static-file uploader.
+2. Upload the CONTENTS of this folder (or drag the extracted folder contents):
+   - index.html
+   - 404.html
+   - assets/
+   - README.txt
+   - .nojekyll (harmless on Cloudflare)
+3. Click Deploy.
+4. Final URL:
+   https://mohamed-azaz-yportfolio.mazazy771.workers.dev/
 
-Enhancements included:
-- Animated performance counters when scrolled into view.
-- Premium scroll progress indicator and micro-interactions.
-- Dynamic icon motion and heading accents (respects reduced-motion settings).
-- First 3 digital project case studies use live website screenshot thumbnails generated from the actual live websites; if the screenshot service is unavailable, the portfolio automatically falls back to the existing local image.
-- Existing accordion behavior and all content preserved.
-
-Root files include index.html and assets/.
+This build includes:
+- animated KPI counters
+- scroll/reveal motion
+- interactive project accordions
+- live website preview images with fallback
+- social preview metadata pointing to the Cloudflare URL
