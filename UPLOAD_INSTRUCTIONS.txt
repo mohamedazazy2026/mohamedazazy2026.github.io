@@ -1,0 +1,16 @@
+Upload the CONTENTS of this ZIP to the ROOT of the GitHub repository:
+mohamedazazy2026.github.io
+
+Required root layout:
+- index.html
+- 404.html
+- .nojekyll
+- assets/
+- README.txt
+
+Overwrite the previous files.
+
+GitHub Pages:
+Settings > Pages > Deploy from a branch > main > /(root)
+
+This build inlines the app CSS and JavaScript into index.html to eliminate the blank-page problem caused by external asset loading/deployment mismatch.
