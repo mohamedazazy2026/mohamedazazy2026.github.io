@@ -1,16 +1,12 @@
-Upload the CONTENTS of this ZIP to the ROOT of the GitHub repository:
-mohamedazazy2026.github.io
+MOHAMED AZAZY PORTFOLIO — DYNAMIC FINAL
 
-Required root layout:
-- index.html
-- 404.html
-- .nojekyll
-- assets/
-- README.txt
+Upload the CONTENTS of this ZIP to the ROOT of the GitHub repository mohamedazazy2026.github.io or to Cloudflare static assets.
 
-Overwrite the previous files.
+Enhancements included:
+- Animated performance counters when scrolled into view.
+- Premium scroll progress indicator and micro-interactions.
+- Dynamic icon motion and heading accents (respects reduced-motion settings).
+- First 3 digital project case studies use live website screenshot thumbnails generated from the actual live websites; if the screenshot service is unavailable, the portfolio automatically falls back to the existing local image.
+- Existing accordion behavior and all content preserved.
 
-GitHub Pages:
-Settings > Pages > Deploy from a branch > main > /(root)
-
-This build inlines the app CSS and JavaScript into index.html to eliminate the blank-page problem caused by external asset loading/deployment mismatch.
+Root files include index.html and assets/.
