@@ -1,11 +1,19 @@
-MOHAMED AZAZY — PORTFOLIO HTML PACKAGE
+MOHAMED AZAZY — PORTFOLIO FINAL PACKAGE
 
-Upload the CONTENTS of this folder (not the enclosing folder) to the public web root of your hosting provider.
+Target GitHub Pages URL:
+https://mohamedazazy2026.github.io/
 
-Required files:
+Upload the CONTENTS of this folder to the root of the repository named:
+mohamedazazy2026.github.io
+
+Required root files/folders:
 - index.html
-- assets/ (upload this entire folder unchanged)
+- assets/
+- .nojekyll
 
-The package has relative asset paths and works from the root or from a subfolder. It contains no analytics tags, editor runtime, or local development scripts.
+GitHub Pages settings:
+Settings > Pages > Deploy from a branch > main > /(root)
 
-The package already targets https://mohamed-azaz-yportfolio.mazazy771.workers.dev/ in its canonical, Open Graph and Twitter metadata. Upload the contents of this package to that domain, including assets/mohamed-azazy-social-preview-v2.jpg, so that the social image URL resolves directly over HTTPS.
+Social preview image:
+assets/mohamed-azazy-social-preview-final.jpg
+1200x630 JPEG. Used for Facebook, WhatsApp, LinkedIn and X Open Graph/Twitter metadata.
