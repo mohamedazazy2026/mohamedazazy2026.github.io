@@ -1,14 +1,21 @@
-FINAL PORTFOLIO — READY TO UPLOAD
+FINAL GITHUB PAGES BUILD — SOCIAL PREVIEW FIXED
 
-Upload the CONTENTS of this ZIP to the ROOT of your existing Cloudflare deployment.
-Overwrite the previous files.
+Upload the CONTENTS of this ZIP directly to the ROOT of:
+mohamedazazy2026/mohamedazazy2026.github.io
+
+Overwrite the old files.
 
 Main portfolio:
-https://mohamed-azaz-yportfolio.mazazy771.workers.dev/
+https://mohamedazazy2026.github.io/
 
-Recommended link to share on WhatsApp / LinkedIn / Facebook / Messenger:
-https://mohamed-azaz-yportfolio.mazazy771.workers.dev/portfolio/
+Recommended share link (fresh preview / cache-busting):
+https://mohamedazazy2026.github.io/portfolio/
 
-The /portfolio/ link contains fresh Open Graph metadata and redirects visitors to the main portfolio.
-The social preview image is:
-https://mohamed-azaz-yportfolio.mazazy771.workers.dev/assets/mohamed-azazy-social-preview-commercial-v4.jpg
+Social preview image:
+https://mohamedazazy2026.github.io/assets/mohamed-azazy-social-preview-v5.png
+
+Important:
+- The preview is now hosted on the SAME GitHub Pages domain.
+- The preview image is a real 1200x630 PNG.
+- Open Graph MIME type is image/png.
+- Old workers.dev image references have been removed.
