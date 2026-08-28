@@ -1,19 +1,12 @@
-CLOUDFLARE FINAL DYNAMIC BUILD
+FINAL 2026 PORTFOLIO UPDATE
 
-1. Open the Cloudflare Worker static-file uploader.
-2. Upload the CONTENTS of this folder (or drag the extracted folder contents):
-   - index.html
-   - 404.html
-   - assets/
-   - README.txt
-   - .nojekyll (harmless on Cloudflare)
-3. Click Deploy.
-4. Final URL:
-   https://mohamed-azaz-yportfolio.mazazy771.workers.dev/
+Upload the CONTENTS of this folder to the root of your existing Cloudflare Worker / Pages deployment.
+Overwrite the previous files.
 
-This build includes:
-- animated KPI counters
-- scroll/reveal motion
-- interactive project accordions
-- live website preview images with fallback
-- social preview metadata pointing to the Cloudflare URL
+Required at root:
+- index.html
+- 404.html
+- assets/
+- .nojekyll (harmless on Cloudflare)
+
+The CV download inside the portfolio has been replaced with the latest Hospitality Marketing Supervisor digital CV.

@@ -1,19 +1,15 @@
-MOHAMED AZAZY — PORTFOLIO FINAL PACKAGE
+MOHAMED AZAZY — HOSPITALITY MARKETING SUPERVISOR PORTFOLIO
 
-Target GitHub Pages URL:
-https://mohamedazazy2026.github.io/
+FINAL COMMERCIAL POSITIONING — AUGUST 2026
 
-Upload the CONTENTS of this folder to the root of the repository named:
-mohamedazazy2026.github.io
+Positioning:
+Hospitality Marketing Supervisor | Commercial Growth | Revenue Generation | Corporate Acquisition | Digital & Distribution
 
-Required root files/folders:
-- index.html
-- assets/
-- .nojekyll
+Key proof highlighted:
+- EGP 300K+ direct room bookings from a 7-day EGP 4K campaign (75x+ ROAS)
+- Campaign-period occupancy moved from approx. 38% to 80%+
+- Approx. 60 weddings/month vs <=10 previously even in peak periods
+- EGP 3M+ room revenue from one acquired corporate account in six months
+- Direct booking, Aqua Park ticketing, OTA/distribution and performance marketing projects
 
-GitHub Pages settings:
-Settings > Pages > Deploy from a branch > main > /(root)
-
-Social preview image:
-assets/mohamed-azazy-social-preview-final.jpg
-1200x630 JPEG. Used for Facebook, WhatsApp, LinkedIn and X Open Graph/Twitter metadata.
+Upload the CONTENTS of this folder to the existing hosting root.
