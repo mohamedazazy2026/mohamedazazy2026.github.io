@@ -1,21 +1,19 @@
-FINAL GITHUB PAGES BUILD — SOCIAL PREVIEW FIXED
+MOHAMED AZAZY — PORTFOLIO FINAL SEPTEMBER 2026
 
-Upload the CONTENTS of this ZIP directly to the ROOT of:
+Latest update: Jewel Digital Invitations & Event Experience Platform — launched 1 Sep 2026.
+The downloadable CV inside the portfolio has also been updated to the latest September 2026 digital CV.
+
+UPLOAD:
+Upload the CONTENTS of this ZIP directly to the root of your GitHub Pages repository:
 mohamedazazy2026/mohamedazazy2026.github.io
 
-Overwrite the old files.
+Overwrite the previous files.
 
 Main portfolio:
 https://mohamedazazy2026.github.io/
 
-Recommended share link (fresh preview / cache-busting):
+Recommended sharing link (WhatsApp / LinkedIn / Facebook):
 https://mohamedazazy2026.github.io/portfolio/
 
-Social preview image:
-https://mohamedazazy2026.github.io/assets/mohamed-azazy-social-preview-v5.png
-
-Important:
-- The preview is now hosted on the SAME GitHub Pages domain.
-- The preview image is a real 1200x630 PNG.
-- Open Graph MIME type is image/png.
-- Old workers.dev image references have been removed.
+Live Jewel Digital Invitations example:
+https://invite.jewelsportcityandplaza.com/invite/?slug=azaz-nour
