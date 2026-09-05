@@ -13,3 +13,5 @@ Key proof highlighted:
 - Direct booking, Aqua Park ticketing, OTA/distribution and performance marketing projects
 
 Upload the CONTENTS of this folder to the existing hosting root.
+
+Latest portfolio update: 5 Sep 2026 - added Kayan Club Digital Guest Experience & Service Operations Ecosystem and strengthened the marketing positioning of Jewel Digital Invitations.
